@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinElementChallenge/MinElementChallenge.iml" filepath="$PROJECT_DIR$/MinElementChallenge/MinElementChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReferenceVsValueTypes/ReferenceVsValueTypes.iml" filepath="$PROJECT_DIR$/ReferenceVsValueTypes/ReferenceVsValueTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseArrayChallenge/ReverseArrayChallenge.iml" filepath="$PROJECT_DIR$/ReverseArrayChallenge/ReverseArrayChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-master-class-arrays-lists-autoboxing-unboxing.iml" filepath="$PROJECT_DIR$/.idea/java-master-class-arrays-lists-autoboxing-unboxing.iml" />
     </modules>
   </component>
