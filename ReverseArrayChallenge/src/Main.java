@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Array = " + Arrays.toString(array));
 
         reverse(array);
+
         System.out.println("Array reversed = " + Arrays.toString(array));
     }
 
