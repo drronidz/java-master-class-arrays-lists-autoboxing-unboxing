@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         // Your job is to create a simple banking application.
         // There should be a Bank class
         // It should have an arrayList of Branches
